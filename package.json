@@ -1,0 +1,35 @@
+{
+  "name": "material",
+  "version": "1.0.0",
+  "description": "A first attempt at react with material ui",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack",
+    "start": "webpack-dev-server --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ex3mlyfab/material.git"
+  },
+  "keywords": [
+    "react",
+    "webpack",
+    "babel",
+    "fabtech"
+  ],
+  "author": "Olatunji Abdulkadir <tunjikadri@gmail.com>",
+  "license": "ISC",
+  "homepage": "https://github.com/ex3mlyfab/material.git#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "3.2.0",
+    "path": "0.12.7",
+    "webpack": "4.36.1",
+    "webpack-cli": "3.3.6",
+    "webpack-dev-server": "3.7.2"
+  },
+  "dependencies": {
+    "react": "16.8.6",
+    "react-dom": "16.8.6"
+  }
+}
