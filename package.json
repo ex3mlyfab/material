@@ -22,7 +22,7 @@
   "license": "ISC",
   "homepage": "https://github.com/ex3mlyfab/material.git#readme",
   "devDependencies": {
-    "html-webpack-plugin": "3.2.0",
+    "html-webpack-plugin": "5.5.0",
     "path": "0.12.7",
     "webpack": "4.36.1",
     "webpack-cli": "3.3.6",
